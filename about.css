@@ -1,0 +1,20 @@
+body {
+background:lightgray ; 
+column-fill: 10;
+}
+
+h1 {
+font-family: sans-serif;
+font-size: 40px;
+color: purple;
+}
+
+p {
+font-family: sans-serif;
+font-size: 20px;
+color: grey;
+}
+
+.image {
+width: 100px; 
+}
